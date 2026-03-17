@@ -92,10 +92,9 @@ python3 scripts/detect_vehicles.py
 
 ### (a) What did I learn?
 
-Through this assignment I gained two key technical skills. First, I learned how
-to work with ROS bag files — understanding how sensor data is stored in topics
-and how to extract image frames from them using the rosbags Python library.
-Second, I learned how to apply a pre-trained deep learning model (YOLOv8) to
+First of all, I learned how to work with ROS bag files — understanding how sensor 
+data is stored in topics and how to extract image frames from them using the rosbags 
+Python library. Second, I learned how to apply a pre-trained deep learning model (YOLOv8) to
 real camera footage, including how confidence thresholds affect detection results.
 
 ### (b) How did I use AI tools?
